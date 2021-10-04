@@ -2,7 +2,7 @@
 
 Minha resolução do Case da empresa DHAUZ
 
-![image](https://user-images.githubusercontent.com/85971408/135778270-e58a5b5f-b36c-4e90-8fa1-252c7f859cfc.png)
+![image](https://user-images.githubusercontent.com/85971408/135778324-e54e43b4-2b09-4be9-8289-76552766f8af.png)
 
 # Evasão de Clientes em telecom - DHAUZ
 
